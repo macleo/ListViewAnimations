@@ -1,3 +1,5 @@
+![avatar](./demo.gif)
+
 ListViewAnimations ([Play Store Demo][1])
 ===========
 
